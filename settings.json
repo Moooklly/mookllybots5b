@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "mookllyS5BBot", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "S5BServer2.aternos.me", 
+    "port": 59668,   
     "version": "1.12.1"   
   },
 
